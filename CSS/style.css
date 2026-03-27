@@ -1,0 +1,331 @@
+
+      
+
+        body{
+            background-color: blanchedalmond;
+        }
+        header{
+            text-align: center;
+            background-color: antiquewhite;
+            text-shadow: 5px 5px gray;
+            
+        }
+        header:hover{
+          transform: scalex(3.5);
+     
+          transition: 3s ease-in-out;
+        }
+        header.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+       
+    
+         h1{
+            font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;;
+            font-size: 50px;
+         }
+         nav{
+            background-color: white;
+            font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;;
+            font-size: 30px;
+         }
+               .Row{
+             width: 70%;
+            height: 700px;
+            background-color: black;
+            margin-left: 220px;
+            margin-top: 20px;
+            margin-right: 200px;
+            color: white;
+            padding: 5px;
+         
+            border: 2px solid white;
+
+          }
+           .Row img{
+             width: 300px;
+            height:300px;
+            margin-left: 60px;
+            margin-top: 10px;
+            padding: 20px;
+            border: 2px solid white;
+
+           }
+       
+         .carousel-inner{
+            width: 80%;
+            height: 600px;
+            background-color: black;
+            margin-left: 80px;
+            margin-top: 10px;
+       
+         }
+         .carousel-inner img{
+            width: 280px;
+            height:250px;
+            margin-left: 100px;
+            margin-top: 50px;
+         }
+          .carousel-inner h2{
+            color:white;
+            font-size: 100px;
+          }
+          footer{
+            background-color: black;
+            color:white;
+            margin-top: 50px;
+            text-align: center;
+          }
+          .Foot{
+            width: 100%; 
+            color:black;
+          }
+
+#flexOutput
+{
+	padding:0px;
+}
+
+#flexContainer
+{
+	height:230px;
+	overflow-y:auto;
+	position:fixed;
+	top:0px;
+	right:10px;
+	display:flex;
+	flex-direction:column;
+	width:340px;
+	padding:0px;
+	box-sizing:border-box;
+	z-index:4;
+	
+}
+
+#flexContainer H2
+{
+	align-self:flex-start;
+	color:black;
+	margin:0px;
+	padding:0px;
+	width:320px;
+	
+}
+
+#flexContainer div
+{
+	width:320px;
+	border:6px dashed white;
+	border-radius:3%;
+	background-color: bisque;
+	height:160px;
+	padding:20px;
+	box-sizing:border-box;
+	margin:0px;
+	
+}
+
+
+#flexContainer hr
+{
+	margin:0px;
+	padding:0px;
+}
+
+#flexContainer button
+{
+	float:right;
+	margin:auto 5px auto auto;
+}
+
+#flexContainer #buttons
+{
+	padding:0px;
+	height:auto;
+}
+
+
+
+
+
+#finalBill{width:550px;top:10px;left:350px;position:fixed;height:560px;
+overflow-x:auto;
+	border-radius:3%;
+	box-sizing:border-box;
+	
+	overflow-y:auto;
+	position:fixed;
+    
+    z-index:5;
+    display:none;
+}
+	#finalBill #bankInfo{width:530px;padding:10px;box-sizing:border-box
+     ;
+
+}
+	#finalBill #billTable{width:530px;padding:30px;box-sizing:border-box;height:310px;overflow-y:auto;
+overflow-x:auto;
+	background-color:beige;
+	border-radius:3%;
+    padding:0px;
+    color: black;
+    overflow-y:auto;
+    border:1px solid black;
+ 
+    
+    margin:auto;}
+	#finalBill #buttons2{width:530px;padding:0px 10px 0px 10px;
+overflow-x:auto;
+	height:50px;
+	padding:0px;
+	box-sizing:border-box;}
+
+
+#finalBill h2
+{
+	margin:auto;
+	padding:0px;
+	color:black;
+	
+}
+.table-product-heading
+{
+	width:140px;
+	height:50px;
+	padding:20px;
+	box-sizing:border-box;
+	color:black;
+	text-align:center;
+}
+
+.table-items-heading
+{
+	width:50px;
+	height:50px;
+	padding:20px;
+	box-sizing:border-box;
+	color:white;
+	text-align:center;
+}
+
+.table-product-content
+{
+	width:140px;
+	height:140px;
+	padding:20px;
+	box-sizing:border-box;
+	text-align:center;
+}
+
+.table-product-items
+{
+	width:50px;
+	height:140px;
+	text-align:center;
+	padding:20px;
+	box-sizing:border-box;
+	color:rgb(10, 10, 10);
+}
+
+.table-product-total
+{
+	width:70px;
+	padding:20px;
+	text-align:center;
+	height:140px;
+	box-sizing:border-box;
+	color:rgb(0, 0, 0);
+}
+
+.table-total-heading
+{
+	width:70px;
+	height:50px;
+	padding:20px;
+	box-sizing:border-box;
+	color:rgb(4, 4, 4);
+	text-align:center;
+}
+
+#billTable table
+{
+	width:310px;
+	height:auto;
+	margin:auto;
+	border:1px solid rgb(6, 6, 6);
+	border-collapse:collapse;
+}
+#billTable th,td
+{
+	color:rgb(5, 5, 5);
+	border:1px solid rgb(7, 7, 7);
+	font-weight:600;
+}
+
+#buttons2 #backToCart
+{
+	float:left;
+	margin:0px auto 0px 10px;
+	height:50px;
+}
+
+#buttons2 #pay
+{
+	float:right;
+	margin:0px 10px 0px auto;
+	height:50px;
+}
+
+#finalBill #bankInfo
+{
+	
+	height:215px;
+	overflow-x:auto;
+	display:none;
+	padding:0px;
+	
+	border:1px solid black;
+	border-radius:3%;
+	margin:auto;
+width:530px;padding:10px;box-sizing:border-box;
+}
+
+
+#bankInfo img
+{
+	width:30px;
+	margin:auto auto auto 15px;
+}
+
+#bankInfo input[type="text"]
+{
+	border-radius:4px;
+	border:1px solid black;
+}
+
+#bankInfo input[type="password"]
+{
+	border-radius:4px;
+}
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+    

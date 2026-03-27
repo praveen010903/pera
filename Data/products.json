@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":1,
+             "product_name":"PS5",
+             "imgSrc":"Images/ps5.jpeg",
+             "price":50000
+             },
+             {
+             "product_id":2,
+             "product_name":"Television",
+             "imgSrc":"Images/tv.jpeg",
+             "price":35000
+             },
+             {
+             "product_id":3,
+             "product_name":"Air conditioner",
+             "imgSrc":"Images/ac.jpeg",
+             "price":50000
+             },
+             {
+             "product_id":4,
+             "product_name":"Air fryer",
+             "imgSrc":"Images/air.jpeg",
+             "price":6000
+             },
+             {
+             "product_id":5,
+             "product_name":"Dyson Air warp",
+             "imgSrc":"Images/h3.jpeg",
+             "price":50000
+             },
+             {
+             "product_id":6,
+             "product_name":"Chimney",
+             "imgSrc":"Images/h4.jpeg",
+             "price":20000
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":7,
+            "product_name":"Men Jacket",
+            "imgSrc":"Images/m1.jpeg",
+            "price":3000
+            },
+            {
+            "product_id":8,
+            "product_name":"Full hand T Shirt",
+            "imgSrc":"Images/m2.jpeg",
+            "price":1999
+            },
+            {
+            "product_id":9,
+            "product_name":"Men Jeans",
+            "imgSrc":"Images/m3.jpeg",
+            "price":1500
+            },
+            {
+            "product_id":10,
+            "product_name":"Casual pants",
+            "imgSrc":"Images/m4.jpeg",
+            "price":600
+            },
+            {
+            "product_id":11,
+            "product_name":"Men shoes",
+            "imgSrc":"Images/m5.jpeg",
+            "price":999
+            },
+            {
+            "product_id":12,
+            "product_name":"Men Watch",
+            "imgSrc":"Images/m6.jpeg",
+            "price":3000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":13,
+             "product_name":"Women Jeans",
+             "imgSrc":"Images/w1.jpeg",
+             "price":600
+             },
+             {
+             "product_id":14,
+             "product_name":"Women T Shirt",
+             "imgSrc":"Images/w2.jpeg",
+             "price":500
+             },
+             {
+             "product_id":15,
+             "product_name":"Women Salwar",
+             "imgSrc":"Images/w3.jpeg",
+             "price":1000
+             },
+             {
+             "product_id":16,
+             "product_name":"Women Watch",
+             "imgSrc":"Images/w4.jpeg",
+             "price":3000
+             },
+             {
+             "product_id":17,
+             "product_name":"Heels",
+             "imgSrc":"Images/w7.jpeg",
+             "price":1500
+             },
+             {
+             "product_id":18,
+             "product_name":"Women Bag",
+             "imgSrc":"Images/w6.jpeg",
+             "price":600
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":19,
+              "product_name":"Pizza",
+              "imgSrc":"Images/f1.jpeg",
+              "price":299
+              },
+              {
+              "product_id":20,
+              "product_name":"Burger",
+              "imgSrc":"Images/f2.jpeg",
+              "price":250
+              },
+              {
+              "product_id":21,
+              "product_name":"Fried Rice",
+              "imgSrc":"Images/f3.jpeg",
+              "price":150
+              },
+              {
+              "product_id":22,
+              "product_name":"briyani",
+              "imgSrc":"Images/f4.jpeg",
+              "price":399
+              },
+              {
+              "product_id":23,
+              "product_name":"Parotta",
+              "imgSrc":"Images/f5.jpeg",
+              "price":99
+              },
+              {
+              "product_id":24,
+              "product_name":"Pasta",
+              "imgSrc":"Images/f6.jpeg",
+              "price":360
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":25,
+              "product_name":"It's Starts with us",
+              "imgSrc":"Images/b1.jpeg",
+              "price":100
+              },
+              {
+              "product_id":26,
+              "product_name":"It's end with us",
+              "imgSrc":"Images/b2.jpeg",
+              "price":199
+              },
+              {
+              "product_id":27,
+              "product_name":"Chistopher Nolan",
+              "imgSrc":"Images/b3.jpeg",
+              "price":499
+              },
+              {
+              "product_id":28,
+              "product_name":"Pyslogy of Money",
+              "imgSrc":"Images/b4.jpeg",
+              "price":499
+              },
+              {
+              "product_id":29,
+              "product_name":"The vampire Diaries",
+              "imgSrc":"Images/b5.jpeg",
+              "price":399
+              },
+              {
+              "product_id":30,
+              "product_name":"Twisted Love",
+              "imgSrc":"Images/b6.jpeg",
+              "price":399
+              }]
+ 
+}
+]
